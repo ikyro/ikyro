@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @ikyro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi 👋
 
-<!---
-ikyro/ikyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+trying to find my will to live
+
+- [ko-fi](https://ko-fi.com/ikyro)
+
+# 
+
+<p align="center">
+  <a href="https://volt.fm/ikyro" target="_blank">
+    <img
+	    src="https://spotify-ikyro.vercel.app/api/now-playing.svg"
+	    width="540"
+	    height="52"
+    />
+  </a>
+</p>
