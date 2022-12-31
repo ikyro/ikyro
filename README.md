@@ -8,7 +8,7 @@ trying to find my will to live
   <a href="https://volt.fm/ikyro" target="_blank">
     <img
 	src="https://spotify-ikyro.vercel.app/api/now-playing.svg"
-	    width="540"
+	    width="600"
 	    height="52"
     />
   </a>
