@@ -4,7 +4,7 @@ trying to find my will to live
 
 - [ko-fi](https://ko-fi.com/ikyro)
 
-# A
+## A
 <div align="center">
   <div style="display: flex;gap: 15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=ikyro&show_icons=true&theme=radical" />
