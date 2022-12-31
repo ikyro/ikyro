@@ -15,7 +15,7 @@ trying to find my will to live
 <p align="center">
   <a href="https://volt.fm/ikyro" target="_blank">
     <img
-	    src="https://spotify-ikyro.vercel.app/api/now-playing.svg"
+	src="https://spotify-ikyro.vercel.app/api/now-playing.svg"
 	    width="540"
 	    height="52"
     />
