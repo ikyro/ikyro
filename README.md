@@ -2,6 +2,8 @@
 
 trying to find my will to live
 
+<sub><sub><sup>18 years old</sup></sub></sub>
+
 - [ko-fi](https://ko-fi.com/ikyro)
 
 <p align="center">
