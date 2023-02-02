@@ -10,7 +10,6 @@ trying to find my will to live
 	<img src="https://img.shields.io/badge/Typescript-151D3B?logo=typescript" />
 	<img src="https://img.shields.io/badge/Rust-151D3B?logo=rust" />
 	<img src="https://img.shields.io/badge/Python-151D3B?logo=python" />
-	<img src="https://img.shields.io/badge/Firebase-151D3B?logo=firebase" />
 </p>
 
 <p align="center">
